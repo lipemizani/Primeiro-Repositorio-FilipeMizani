@@ -17,3 +17,13 @@ Ctrl L - limpar os códigos
 echo = Print
 
 echo hello > hello.txt - Cria uma pasta (Caso não tenha nenhum arquivo com o mesmo nome do “print” na pasta)
+
+git status - exibe as condições do diretório de trabalho
+
+git add . - adiciona uma alteração no diretório ativo à área de staging
+
+git commit -m " ***** " - é usado para fazer um commit de uma captura de tela no diretório
+
+git push origin main - é usado para enviar o conteúdo do repositório local para um repositório remoto.
+
+git config advice.useCoreFSMonitorConfig false - código para quando dar erro (código amarelo)
