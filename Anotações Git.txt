@@ -1,0 +1,19 @@
+cd - Mudar de diretórios 
+
+ls - listar itens 
+
+ls -a - Listar itens ocultos
+
+mkdir - Criar diretórios 
+
+del (pasta) - Deletar o arquivo no pasta 
+
+rmdir (pasta) /s /q - Deletar a pasta e o arquivo dentro 
+
+cd .. - Voltar um nível 
+
+Ctrl L - limpar os códigos
+
+echo = Print
+
+echo hello > hello.txt - Cria uma pasta (Caso não tenha nenhum arquivo com o mesmo nome do “print” na pasta)
